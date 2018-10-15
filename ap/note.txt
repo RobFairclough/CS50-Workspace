@@ -1,0 +1,1 @@
+Using the CS50 AP course as it contains a few extra resources and exercises that I wanted to use as intermediates between psets. I don't intend to submit these or complete the AP course - just bonus learning materials to help me out.

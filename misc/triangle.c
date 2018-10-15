@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
+
 bool valid_triangle(double a, double b, double c)
+
 bool valid_triangle(double a, double b, double c)
 {
     if (a <= 0 || b <= 0 || c <= 0)

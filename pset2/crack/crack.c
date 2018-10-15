@@ -18,8 +18,8 @@ int main(int argc, string argv[])
     }
     // hash to check against
     string hash = argv[1];
-    // array with room for 5 chars
-    char password[5];
+    // array with room for 5 chars and a null terminator value
+    char password[6];
 
 
 }
